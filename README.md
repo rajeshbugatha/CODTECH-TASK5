@@ -47,3 +47,20 @@ The **Food Recipe Finder** is a web-based application designed to help users qui
 ### Summary:
 The **Food Recipe Finder** application offers a simple and interactive way for users to find recipes based on ingredients or dish names. With a responsive design, easy-to-use interface, and the potential to integrate with external APIs, it serves as a convenient tool for food enthusiasts, home cooks, or anyone looking to explore new recipes. While the basic structure is laid out with HTML, styling, and search input, the app’s core functionality and data handling will be implemented through JavaScript and API integration.
 
+![Screenshot 2024-11-12 143952](https://github.com/user-attachments/assets/828f8e63-7da1-4455-9af6-450277fc22d2)
+
+
+![Screenshot 2024-11-12 144133](https://github.com/user-attachments/assets/cb91e902-0097-464b-8a14-7e8cc3377608)
+
+
+![Screenshot 2024-11-12 144525](https://github.com/user-attachments/assets/a6d8e549-fcc3-4706-a6d1-2f41aea96621)
+
+
+![Screenshot 2024-11-12 144539](https://github.com/user-attachments/assets/d90c1101-c77f-480f-bd23-a81a65622a99)
+
+
+![Screenshot 2024-11-12 145844](https://github.com/user-attachments/assets/182a5377-1dc7-4e3c-b7f3-767de43b341e)
+
+
+
+
